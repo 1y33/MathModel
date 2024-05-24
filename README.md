@@ -1,2 +1,4 @@
 # MathModel
-GHIU GPT de nu fac eu acuma mare project nebun pervers sa fie bine
+im2latex done
+OCR nope
+LLM nope
